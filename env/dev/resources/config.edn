@@ -1,0 +1,5 @@
+{:dev true
+ :es-url "http://localhost:9200/"
+ :port "3000"
+ :search-size "10"}
+
